@@ -266,19 +266,19 @@ export const projectsData = [
   {
     name: '',
     desc: 'Inventory Management',
-    url: '/projects/image-17.jpg',
+    url: '/projects/image-17.png',
     tech: ['Website', 'Laravel',],
   },
   {
     name: '',
     desc: 'Trucking Booking System',
-    url: '/projects/image-14.jpg',
+    url: '/projects/image-14.png',
     tech: ['MSAccess'],
   },
   {
     name: '',
     desc: 'Prototype of the Server and Firewall',
-    url: '/projects/image-16.jpg',
+    url: '/projects/image-16.png',
     tech: ['EVE-NG'],
   },
   {
